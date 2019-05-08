@@ -1,0 +1,29 @@
+{
+  "title": "Breaking Bad",
+  "season_nb": 5,
+  "episodes_nb": 62,
+  "cast": {
+    "character": [
+      {
+        "name": "Walter White",
+        "actor": "Bryan Cranston"
+      },
+      {
+        "name": "Jesse Pinkman",
+        "actor": "Aaron Paul"
+      },
+      {
+        "name": "Hank Schrader",
+        "actor": "Dean Norris"
+      },
+      {
+        "name": "Saul Goodman",
+        "actor": "Bob Odenkirk"
+      }
+    ]
+  },
+  "years": {
+    "start": 2008,
+    "end": 2013
+  }
+}

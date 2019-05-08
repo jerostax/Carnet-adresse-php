@@ -1,0 +1,100 @@
+/* @override 
+	http://em.cours/php/PHP_niv1/AddressBook_cours2009/styles.css
+	http://em.cours/PHP/PHP_niv1/AddressBook_cours2009/styles.css
+*/
+
+* {
+	color: #333;
+	font: 12px Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font: bold 22px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+#container {
+	width: 450px;
+	margin: 20px auto;
+	border: 1px solid #eee;
+}
+
+label {
+	width: 150px;
+	display: block;
+	float: left;
+	height: 20px;
+	background-color: silver;
+	text-align: right;
+	padding: 3px 3px 0 0;
+	font-weight: bold;
+	font-style: italic;
+}
+
+input {
+	width: 200px;
+	border: 1px solid silver;
+	height: 19px;
+}
+
+.submit {
+	text-align: center;
+}
+
+#container table {
+	width: 450px;
+	border-collapse: separate;
+	border-spacing: 5px;
+}
+
+table td {
+	padding: 5px;
+}
+
+.impair {
+	background-color: #f8fa89;
+}
+
+.pair {
+	background-color: #9ff390;
+}
+
+.tete {
+	background-color: #4fe834;
+}
+
+a.valid:link, a.valid:visited {
+	display: block;
+	border: 1px solid green;
+	padding: 5px;
+	width: 100px;
+	text-align: center;
+	background-color: green;
+	margin: 0 auto;
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+a.valid:hover, a.valid:active {
+	background-color: white;
+	color: green;
+}
+
+a.cancel:link, a.cancel:visited {
+	display: block;
+	border: 1px solid red;
+	padding: 5px;
+	width: 100px;
+	text-align: center;
+	background-color: red;
+	margin: 0 auto;
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+a.cancel:hover, a.cancel:active {
+	background-color: white;
+	color: red;
+}

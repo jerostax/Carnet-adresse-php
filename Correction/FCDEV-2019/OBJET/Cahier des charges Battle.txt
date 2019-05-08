@@ -1,0 +1,13 @@
+Jeu : Bataille de cartes
+
+- 2 joueurs
+	- nom
+	- carte en main
+- 1 jeu de 52 cartes
+	- hauteur de cartes de 1 à 13 (13 = R)
+	- 4 familles (4 couleurs : Pique, Coeur, Carreau, Trefle)
+- Comment ça se passe une bataille ?
+	- On ditribue des cartes (1 par personne)
+	- on vérifie la hauteur dse cartes => donne un gagnant de la manche (ou match nul)
+	- Afficher les cartes (et les joueurs)
+	- Dire qui gagne (ou s'il y a battaille)

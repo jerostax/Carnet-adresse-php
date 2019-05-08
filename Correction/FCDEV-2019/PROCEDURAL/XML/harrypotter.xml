@@ -1,0 +1,65 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+	<title>Harry Potter VII part.2</title>
+	<pg-rating>G</pg-rating>
+	<crew>
+		<staff>
+			<name>David Yates</name>
+			<function>Director</function>
+		</staff>
+		<staff>
+			<name>Steve Kloves</name>
+			<function>Screenplay</function>
+		</staff>
+		<staff>
+			<name>David Barron</name>
+			<function>Producer</function>
+		</staff>
+		<staff>
+			<name>Alexandre Desplat</name>
+			<function>Music</function>
+		</staff>
+		<staff>
+			<name>Fiona Weir</name>
+			<function>Casting</function>
+		</staff>
+		<staff>
+			<name>Jany Temime</name>
+			<function>Costume Designer</function>
+		</staff>
+	</crew>
+	<characters>
+		<actor>
+			<name>Daniel Radcliffe</name>
+			<character>Harry Potter</character>
+		</actor>
+		<actor>
+			<name>Rupert Grint</name>
+			<character>Ron Weasley</character>
+		</actor>
+		<actor>
+			<name>Emma Watson</name>
+			<character>Hermione Granger</character>
+		</actor>
+		<actor>
+			<name>Alan Rickman</name>
+			<character>Professor Severus Snape</character>
+		</actor>
+		<actor>
+			<name>Michael Gambon</name>
+			<character>Professor Albus Dumbledore</character>
+		</actor>
+		<actor>
+			<name>Ralph Fiennes</name>
+			<character>Lord Voldemort</character>
+		</actor>
+		<actor>
+			<name>Tom Felton</name>
+			<character>Draco Malfoy</character>
+		</actor>
+		<actor>
+			<name>Gary Oldman</name>
+			<character>Sirius Black</character>
+		</actor>
+	</characters>
+</movie>
